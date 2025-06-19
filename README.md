@@ -11,11 +11,11 @@ For educational and deployment-related purposes, the UI branding has been change
 
 ### Desktop View
 
-![Desktop Screenshot](mySocialLogin/screenshot.png)
+![Desktop Screenshot](mySocialLogin/assets/screenshot.png)
 
 ### Mobile View
 
-![Mobile Screenshot](mySocialLogin/mobile.png)
+![Mobile Screenshot](mySocialLogin/assets/mobile.png)
 
 ## 🛠️ Tech Stack
 
@@ -37,8 +37,9 @@ For educational and deployment-related purposes, the UI branding has been change
 ```bash
 git clone https://github.com/Khaja-Mohiddin-Shaik/Responsive-Facebok-login-clone.git
 cd Responsive-Facebok-login-clone/mySocialLogin
-
+```
 ### 2. Run the Project
 
 ```bash
 start index.html
+```
