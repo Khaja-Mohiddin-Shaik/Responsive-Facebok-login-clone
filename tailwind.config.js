@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./facebookLogin/*.{html,js}"],
+  content: ["./mySocialLogin/*.{html,js}"],
   theme: {
     extend: {
       gridTemplateRows: {
